@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHLF4RRy+Uj0klcoDYXUM4KdzfSnLY1lo1pCLTfQFIB1rak292jS5WB59jv/w99WlZv9xSWBxKlMJ4dIwGvdkA==",
+  "dgSpecHash": "k26L4ITGlPr6CHWyviV1yQ66dvK/dALg+bGn24gssd3yaU34JArnaeDHK1mj/j13Q/UpLFTOPAr4Czpf0KP5Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

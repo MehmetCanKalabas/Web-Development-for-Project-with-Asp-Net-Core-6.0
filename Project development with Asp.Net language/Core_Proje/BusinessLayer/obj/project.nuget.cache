@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNS0zy+81+rWwz1QAbdUl25AnXNUgPaIVIzq1ZQVI1QB73PSPesxuiI5EjI/8kMMR3byMW42sDoBFzO7ca5suA==",
+  "dgSpecHash": "IIfI52pp6Q1JhZuDAhgh23v0Gbmhpu9jKTFS8wVt2oqRyj6rgs0+/TxDaivodlRzwCJbCHgDSQaiuT+iKfpHbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

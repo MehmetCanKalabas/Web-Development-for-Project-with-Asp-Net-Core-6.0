@@ -167,7 +167,13 @@ namespace DataAccessLayer.Migrations
                     b.Property<string>("ImageUrl")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ImageUrl2")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProjectUrl")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("PortfolioID");
@@ -256,6 +262,9 @@ namespace DataAccessLayer.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ImageUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("TestimonialID");

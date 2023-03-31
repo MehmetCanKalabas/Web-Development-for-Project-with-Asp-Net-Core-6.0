@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\Core_Proje\\Core_Proje.csproj": {}
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\Core_Proje\\Core_Proje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\Core_Proje\\Core_Proje.csproj": {
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\Core_Proje\\Core_Proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
         "projectName": "Core_Proje",
-        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
+        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
         "packagesPath": "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\Core_Proje\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\Core_Proje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,14 +120,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -161,6 +161,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
             }
           },
           "imports": [
@@ -186,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -214,8 +218,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -271,14 +275,14 @@
         }
       }
     },
-    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

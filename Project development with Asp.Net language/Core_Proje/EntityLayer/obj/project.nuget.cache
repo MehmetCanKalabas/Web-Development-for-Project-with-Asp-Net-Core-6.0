@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4Xel9vPOAHaEEdCQl1xk9HzoyQWK33LYPLoIhT5twrU0KCuNpC9Sw+RtqzR8tASkn0v73K5dK84GxAQNDpJAw==",
+  "dgSpecHash": "s8btoAaQkzH30V3rRVkljATgiLRJnIi5UaJksPthCKQ9VoSeKaXPfnakA2WuDhC3AaK+5ksj6Ww8stWtPuvF2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Asp.Net-5.0 ile adım adım web\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
