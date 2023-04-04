@@ -12,18 +12,17 @@ namespace Core_Proje.ViewComponents.Contact
 
         [HttpGet]
         public IViewComponentResult Invoke()
-        {
-            var values = messageManager.TGetList();
-            return View(values);
-        }
-
-        [HttpPost]
-        public IViewComponentResult Invoke(Message p)
-        {
-            p.Date = Convert.ToDateTime(DateTime.Now.ToShortDateString());
-            p.Status = true;
-            messageManager.TAdd(p);
+        { 
             return View();
         }
+
+        //[HttpPost]
+        //public IViewComponentResult Invoke(Message p)
+        //{
+        //    p.Date = Convert.ToDateTime(DateTime.Now.ToShortDateString());
+        //    p.Status = true;
+        //    messageManager.TAdd(p);
+        //    return View();
+        //}
     }
 }
