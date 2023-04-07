@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IIfI52pp6Q1JhZuDAhgh23v0Gbmhpu9jKTFS8wVt2oqRyj6rgs0+/TxDaivodlRzwCJbCHgDSQaiuT+iKfpHbQ==",
+  "dgSpecHash": "TnCvMI0xAQ7n4gmOB/QlEPiczyw7LWveBhYE35aFhI81a9JAZHDJeWrLuI66/dPDCNtZIuzyAWC92W1QJN03Cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mehmet Can Kalabaş\\Desktop\\Projeler\\Web Development on Project Step by Step with Asp Net Core_6.0\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Mehmet Can Kalabaş\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

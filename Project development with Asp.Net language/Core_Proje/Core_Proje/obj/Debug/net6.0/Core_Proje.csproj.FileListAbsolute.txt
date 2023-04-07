@@ -339,3 +339,7 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.csproj.CopyComplete
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.genruntimeconfig.cache
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\ref\Core_Proje.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cs

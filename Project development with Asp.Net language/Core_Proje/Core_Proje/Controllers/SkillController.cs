@@ -32,6 +32,7 @@ namespace Core_Proje.Controllers
             skillManager.TDelete(values);
             return RedirectToAction("Index");
         }
+
         [HttpGet]
         public IActionResult EditSkill(int id)
         {
