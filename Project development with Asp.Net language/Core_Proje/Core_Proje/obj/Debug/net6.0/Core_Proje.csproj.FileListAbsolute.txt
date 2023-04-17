@@ -67,17 +67,6 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Asp.Net-5.0 ile adım adım web\Co
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Asp.Net-5.0 ile adım adım web\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Asp.Net-5.0 ile adım adım web\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.genruntimeconfig.cache
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Asp.Net-5.0 ile adım adım web\Core_Proje\Core_Proje\obj\Debug\net6.0\ref\Core_Proje.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.csproj.AssemblyReference.cache
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.AssemblyInfoInputs.cache
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.AssemblyInfo.cs
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.csproj.CoreCompileInputs.cache
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.RazorAssemblyInfo.cache
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.RazorAssemblyInfo.cs
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\refint\Core_Proje.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\appsettings.json
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Core_Proje.staticwebassets.runtime.json
@@ -86,9 +75,15 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Core_Proje.runtimeconfig.json
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Core_Proje.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Core_Proje.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\MessagePack.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Build.dll
@@ -117,6 +112,8 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -331,15 +328,23 @@ C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\BusinessLayer.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.csproj.AssemblyReference.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.AssemblyInfoInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.AssemblyInfo.cs
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.RazorAssemblyInfo.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.RazorAssemblyInfo.cs
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\scopedcss\bundle\Core_Proje.styles.css
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\scopedcss\projectbundle\Core_Proje.bundle.scp.css
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.csproj.CopyComplete
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\refint\Core_Proje.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.pdb
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.genruntimeconfig.cache
 C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\ref\Core_Proje.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje\obj\Debug\net6.0\Core_Proje.MvcApplicationPartsAssemblyInfo.cs
