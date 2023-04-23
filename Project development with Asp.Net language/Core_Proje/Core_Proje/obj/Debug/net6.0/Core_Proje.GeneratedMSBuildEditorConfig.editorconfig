@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\Core_Proje
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/DashBoardWriter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERhc2hCb2FyZFdyaXRlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Default/AnnouncementDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXERlZmF1bHRcQW5ub3VuY2VtZW50RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -47,6 +51,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Message/MessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcTWVzc2FnZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Message/ReceiverMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcUmVjZWl2ZXJNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Message/ReceiverMessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcUmVjZWl2ZXJNZXNzYWdlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Message/SenderMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcU2VuZGVyTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Message/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXE1lc3NhZ2VcU2VuZE1lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Profile/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFByb2ZpbGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -55,12 +79,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFJlZ2lzdGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Shared/Components/Navbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXE5hdmJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/Shared/Components/Notification/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXFNoYXJlZFxDb21wb25lbnRzXE5vdGlmaWNhdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Areas/Writer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcV3JpdGVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/AdminMessage/AdminMessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXEFkbWluTWVzc2FnZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/AdminMessage/AdminMessageSend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXEFkbWluTWVzc2FnZVNlbmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/AdminMessage/ReceiverMessageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXFJlY2VpdmVyTWVzc2FnZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/AdminMessage/SenderMessageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXFNlbmRlck1lc3NhZ2VMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Admin/NewSideBar.cshtml]
@@ -87,6 +135,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNpZGVCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/ContactSubplace/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFN1YnBsYWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Contact/ContactDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaEJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -105,6 +165,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Default/SendMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxTZW5kTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/ErrorPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Experience2/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZTJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Experience/AddExperience.cshtml]
@@ -159,6 +231,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Shared/Components/AdminNavbarMessageList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5OYXZiYXJNZXNzYWdlTGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Shared/Components/AdminNotificationNavbarList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5Ob3RpZmljYXRpb25OYXZiYXJMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Shared/Components/ContactDetailsList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdERldGFpbHNMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -205,6 +285,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Shared/Components/SlideList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Shared/Components/SocialMediaList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsTWVkaWFMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Shared/Components/StatisticsDashboard2/Default.cshtml]
@@ -255,8 +339,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/SocialMedia/AddSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcQWRkU29jaWFsTWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/SocialMedia/EditSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcRWRpdFNvY2lhbE1lZGlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/SocialMedia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Testimonial/EditTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcRWRpdFRlc3RpbW9uaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/WriterUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mehmet Can Kalabaş/Desktop/Projeler/Web Development on Project Step by Step with Asp Net Core_6.0/Core_Proje/Core_Proje/Views/_ViewImports.cshtml]

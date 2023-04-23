@@ -24,15 +24,25 @@ namespace BusinessLayer.Concrete
 
         public void TDelete(Message t)
         {
-            throw new NotImplementedException();
+            _messageDal.Delete(t);
         }
 
         public Message TGetByID(int id)
         {
-            throw new NotImplementedException();
+            return _messageDal.GetByID(id);
         }
 
         public List<Message> TGetList()
+        {
+            return _messageDal.GetList();
+        }
+
+        public List<Message> TGetListbyFilter(string p)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Message> TGetListbyFilter()
         {
             throw new NotImplementedException();
         }

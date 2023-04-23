@@ -3,6 +3,7 @@ using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,6 +12,11 @@ namespace DataAccessLayer.Repository
     public class SkillRepository : IGenericDal<Skill>
     {
         public void Delete(Skill t)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Skill> GetbyFilter(Expression<Func<Skill, bool>> filter)
         {
             throw new NotImplementedException();
         }
