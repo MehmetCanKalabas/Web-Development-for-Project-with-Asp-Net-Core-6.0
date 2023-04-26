@@ -1,0 +1,17 @@
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.deps.json
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\bin\Release\net6.0\EntityLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\bin\Release\net6.0\EntityLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\refint\DataAccessLayer.dll
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.pdb
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\Web Development on Project Step by Step with Asp Net Core_6.0\Core_Proje\DataAccessLayer\obj\Release\net6.0\ref\DataAccessLayer.dll
